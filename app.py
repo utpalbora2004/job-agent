@@ -11,5 +11,5 @@ def send_message(text):
 
 if __name__ == "__main__":
     while True:
-        send_message("🚀 Job Agent is Running...")
+        send_message("🚀 updated Job Agent is Running...")
         time.sleep(86400)  # 24 hour
